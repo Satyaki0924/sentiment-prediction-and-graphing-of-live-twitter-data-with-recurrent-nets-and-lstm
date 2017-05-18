@@ -1,2 +1,3 @@
 # sentiment-prediction-with-RNN-lstm-word2vec-model
-## To be uploaded soon... Stay tuned!
+## ReadMe to be updated soon... Stay Tuned!
+## Author: Satyaki Sanyal
