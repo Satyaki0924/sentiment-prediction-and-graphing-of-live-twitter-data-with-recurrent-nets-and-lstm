@@ -1,5 +1,5 @@
-# Sentiment Prediction and graphing of live tweeter data with recurrent nets and lstm
-This project analyses live tweeter sentiments and visualises them using recurrent neural networks and long short term memories. I have used recurrent nets because while training on huge data, recurrent nets actually predicts the outcome a lot better than any normal machine learning models.
+# Sentiment Prediction and graphing of live twitter data with recurrent nets and lstm
+This project analyses live twitter sentiments and visualize them using recurrent neural networks and long short term memories. I have used recurrent nets because while training on huge data, recurrent nets actually predict the outcome a lot better than any normal machine learning models.
 
 ##### *** This project may throw errors if trained on CPU instead of GPU ***
 
