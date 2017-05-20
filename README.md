@@ -51,4 +51,4 @@ python run_me.py
 
 
 #### Author: Satyaki Sanyal
-*** This project is strictly for educational purposes only. ***
+##### *** This project is strictly for educational purposes only. ***
